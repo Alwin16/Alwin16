@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alwin16
-- 👀 I’m interested in codin
+- 👀 I’m interested in coding...
 - 🌱 I’m currently learning Btech IT in CEG Anna University.
 
 <!---
